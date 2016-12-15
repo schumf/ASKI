@@ -1,3 +1,5 @@
+### This fork represents the status of repository [ASKI](https://github.com/seismology-RUB/ASKI) as of December 2016, when Florian Schumacher (@schumf) left the ASKI development team. It is not intended to be modified. 
+
 # ASKI main package
 
 ASKI is a highly modularized program suite offering sensitivity and regularization analysis tools 
